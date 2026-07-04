@@ -1,62 +1,135 @@
-#  Superstore Sales & Profit Analytics Dashboard
+# 📊 Superstore Sales & Profit Analytics Dashboard
 
-Data Source: Sample Superstore dataset containing sales transactions from 2014–2017.
-Data Preparation: Imported CSV dataset into SQLite and performed data cleaning using SQL queries.
-Data Analysis: Conducted exploratory data analysis (EDA) to identify sales trends, customer behavior, regional performance, and product profitability.
-SQL Analysis: Wrote SQL queries for sales analysis, customer analysis, product analysis, regional analysis, and time-based analysis.
-Dashboard Development: Built an interactive Executive Dashboard in Power BI with KPI cards, sales trends, category analysis, regional profit analysis, customer segment analysis, top-selling products, and geographic sales visualization.
-Interactive Features: Added slicers for Year, Category, Segment, and Region to enable dynamic filtering.
-Business Insights: Identified top-performing categories, most profitable regions, customer segments, and sales growth trends to support business decision-making.
-Tools Used: SQL (SQLite), Power BI, Microsoft Excel.
-
-##  Project Overview
-
-This project analyzes the Sample Superstore dataset using SQL and Power BI.
-
-The dashboard provides insights into sales performance, profitability, customer behavior, product performance, and regional trends.
+![Dashboard](Dashboard.png)
 
 ---
 
-##  Tools Used
+## 📌 Project Overview
 
-- SQL (SQLite)
+This project analyzes the **Sample Superstore** dataset using **SQL (SQLite)** and **Power BI** to uncover business insights related to sales, profitability, customers, products, and regional performance.
+
+The objective is to transform raw transactional data into an interactive dashboard that supports data-driven business decisions.
+
+---
+
+## 🎯 Business Objectives
+
+- Analyze overall sales and profit performance.
+- Identify top-performing product categories.
+- Compare regional profitability.
+- Understand customer segment contribution.
+- Monitor sales trends over time.
+- Identify top-selling products.
+- Build an interactive executive dashboard.
+
+---
+
+## 🛠 Tech Stack
+
 - Power BI
+- SQL (SQLite)
 - Microsoft Excel
+- Git & GitHub
 
 ---
 
-##  Dashboard Features
+## 📂 Project Structure
 
-- Executive KPI Dashboard
-- Sales Trend Analysis
-- Category Analysis
-- Regional Profit Analysis
-- Customer Segment Analysis
-- Top Selling Products
-- Geographic Sales Analysis
-
----
-
-## KPIs
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Total Quantity
-- Profit Margin
-
----
-
----
-
-## Key Insights
-
-- Sales increased year over year.
-- Technology is the highest-selling category.
-- West region generates the highest profit.
-- Consumer segment contributes the largest share of sales.
-- Top products contribute a significant portion of revenue.
+```
+Superstore-Sales-Dashboard
+│
+├── Dashboard
+│   └── Superstore Dashboard.pbix
+│
+├── Dataset
+│   └── Sample - Superstore.csv
+│
+├── SQL
+│   ├── Data_Cleaning.sql
+│   ├── Sales_Analysis.sql
+│   ├── Customer_Analysis.sql
+│   ├── Product_Analysis.sql
+│   ├── Regional_Analysis.sql
+│   └── Time_Analysis.sql
+│
+├── Images
+│   └── Dashboard.png
+│
+└── README.md
+```
 
 ---
 
+## 🚀 Dashboard Features
+
+✔ Executive KPI Dashboard
+
+✔ Sales Trend Analysis
+
+✔ Sales by Category
+
+✔ Profit by Region
+
+✔ Customer Segment Analysis
+
+✔ Top Selling Products
+
+✔ Geographic Sales Analysis
+
+✔ Interactive Slicers
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales
+- 📈 Total Profit
+- 🛒 Total Orders
+- 👥 Total Customers
+- 📦 Total Quantity Sold
+- 📊 Profit Margin %
+
+---
+
+## 📝 SQL Analysis Performed
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Sales Analysis
+- Customer Analysis
+- Product Analysis
+- Regional Analysis
+- Time-Based Analysis
+
+---
+
+## 📈 Key Business Insights
+
+- Sales showed consistent year-over-year growth.
+- Technology generated the highest sales.
+- West region recorded the highest profit.
+- Consumer segment contributed the largest share of revenue.
+- A small number of products generated a significant portion of total sales.
+- Regional analysis highlighted opportunities to improve profitability in lower-performing regions.
+
+---
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+---
+
+## 📬 Connect with Me
+
+**Name:** Nidhi
+
+**GitHub:** https://github.com/YourUsername
+
+**LinkedIn:** https://linkedin.com/in/YourProfile
+
+---
+
+⭐ If you found this project useful, consider giving it a Star!
