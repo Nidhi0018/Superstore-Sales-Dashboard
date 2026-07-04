@@ -154,7 +154,7 @@ Superstore-Sales-Dashboard
 
 GitHub: https://github.com/Nidhi0018
 
-LinkedIn: Add your LinkedIn profile here.
+LinkedIn:[ Add your LinkedIn profile here.](https://www.linkedin.com/in/nidhi-jha-ds/)
 
 ---
 
